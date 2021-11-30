@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 const config = require("config");
 
 function connectDB() {
+  console.log("DB", config.get("mongoURI"));
   mongoose
     .connect(config.get("mongoURI"), {
       useNewUrlParser: true,

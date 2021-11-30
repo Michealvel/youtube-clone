@@ -1,0 +1,9 @@
+.item-container {
+  display: flex;  
+  cursor: pointer;
+}
+
+.item-container .info {
+  /* align-self: center; */
+  margin: 10px;
+}

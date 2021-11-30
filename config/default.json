@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Michealvel:xWMDjfM1lbsvLVyT@cluster0.y88mw.mongodb.net/youtube-clone-library?retryWrites=true&w=majority"
+  // "mongoURI": "mongodb://localhost:27017/youtube-clone-library?retryWrites=true&w=majority"
+}
